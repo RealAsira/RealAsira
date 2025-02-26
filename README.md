@@ -1,5 +1,5 @@
 <!--
-Profile inspiration: https://github.com/Andrew6rant
+Profile inspiration: https://github.com/Andrew6rant https://github.com/daria-stanilevici
 Here are some ideas to get you started:
 -->
 
