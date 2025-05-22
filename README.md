@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 |$\color{Orange}{\textsf{Self.Hobbies}}$|$\color{Teal}{\textsf{Violin, Crafts, Gaming, Star Trek}}$|
 |||
 |$\color{Gray}{\textsf{Contact}}$|$\color{Gray}{\textsf{}}$|
-|$\color{Orange}{\textsf{Email.Professional}}$|$\color{Teal}{\textsf{Unavailable}}$|
+|$\color{Orange}{\textsf{Email.Professional}}$|contact@taliashaffer.com|
 |||
 
 <!--
