@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 |||
 |$\color{Gray}{\textsf{Contact}}$|$\color{Gray}{\textsf{}}$|
 |$\color{Orange}{\textsf{Contact.Email}}$|contact@taliashaffer.com|
-|$\color{Orange}{\textsf{Info.Contact}}$|Visit taliashaffer.com|
+|$\color{Orange}{\textsf{OS}}$|$\color{Teal}{\textsf{Visit taliashaffer.com}}$|
 |||
 
 <!--
