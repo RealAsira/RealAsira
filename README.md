@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 |$\color{Orange}{\textsf{Kernel}}$|$\color{Teal}{\textsf{Administrative Assistant, Web-Developer, SQL Admin}}$|
 |$\color{Orange}{\textsf{IDE}}$|$\color{Teal}{\textsf{VSCode, Azure Data Studio, SSMS, Nano}}$|
 |||
-|$\color{Orange}{\textsf{Langs.Programming}}$|$\color{Teal}{\textsf{Python, JavaScript, SQL}}$|
-|$\color{Orange}{\textsf{Langs.Web}}$|$\color{Teal}{\textsf{HTML, CSS, JSON, ECPages, Nexus}}$|
+|$\color{Orange}{\textsf{Langs.Programming}}$|$\color{Teal}{\textsf{Python, JavaScript, SQL, Rust (learning)}}$|
+|$\color{Orange}{\textsf{Langs.Web}}$|$\color{Teal}{\textsf{HTML, CSS, JSON, EC:Pages, Nexus}}$|
 |$\color{Orange}{\textsf{Langs.Real}}$|$\color{Teal}{\textsf{English}}$|
 |||
 |$\color{Orange}{\textsf{Self.Hobbies}}$|$\color{Teal}{\textsf{Violin, Crafts, Gaming, Star Trek}}$|
