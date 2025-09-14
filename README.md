@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 |||
 |$\color{Gray}{\textsf{Contact}}$|$\color{Gray}{\textsf{}}$|
 |$\color{Orange}{\textsf{Contact.Email}}$|asira@asira.dev|
-|$\color{Orange}{\textsf{OS}}$|$\color{Teal}{\textsf{Visit asira.dev}}$|
+|$\color{Orange}{\textsf{Contact.Site}}$|$\color{Teal}{\textsf{Visit asira.dev}}$|
 |||
 
 <!--
