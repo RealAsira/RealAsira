@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 |$\color{Orange}{\textsf{OS}}$|$\color{Teal}{\textsf{Visit asira.dev}}$|
 |||
 
-
+<!--
 <div id="stats" align="left">
     <br/><br/>
     <a href="https://git.io/streak-stats">
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
         <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RealAsira&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
     </a>
   </div>
-
+-->
